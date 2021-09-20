@@ -1,0 +1,92 @@
+.container{
+    background-color: rgb(245, 243, 243);
+}
+.address{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: rgb(92, 91, 91);
+}
+.pragrah{
+    text-align: center;
+    color:grey; 
+    padding-bottom: 40px;
+}
+.img2{
+display: flex;
+justify-content: center;
+padding-bottom: 80px;
+}
+.fcard{
+    margin-right: 50px;
+    background-color: white;
+    padding: 20px;
+}
+.scard{
+    background-color: white;
+    padding: 20px;
+}
+.btnfcard{
+    padding: 10px;
+    background-color: rgb(6, 214, 214);
+    border: none;
+}
+.btnfcard a{
+    text-decoration: none;
+    color: ghostwhite;
+}
+.btnscard{
+    padding: 10px;
+    background-color: rgb(6, 214, 214);
+    border: none; 
+}
+.btnscard a{
+    text-decoration: none;
+    color: ghostwhite;
+}
+h3{
+    text-align: center;
+    color: gray;
+    font-weight:lighter;
+}
+.div4{
+    display: flex;
+}
+.service{
+    margin-left: 100px;
+    margin-right: 40px;
+}
+h2{
+    text-align: center;
+    color: rgb(70, 68, 68);
+}
+.par{
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 20px;
+}
+#down{
+    padding: 20px;
+    background-color: rgb(6, 214, 214);
+    border: none;
+    width: 450px;
+}
+#down a{
+    text-decoration: none;
+    color: ghostwhite;
+    font-size: 18px;
+}
+.serviceimg{
+    margin-bottom: 50px;
+}
+.div5{
+    padding-bottom: 180px;
+}
+.h2style{
+    font-size: 30px;
+}
+.pstyle{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+}

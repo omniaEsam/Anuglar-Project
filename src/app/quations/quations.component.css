@@ -1,0 +1,12 @@
+.bodydiv{
+    background-image: url('https://www.konarabia.com/assets/img/team-header.png');
+    background-size: cover;
+    height: 600px;
+    margin: 0;
+}
+h1{
+    padding-top: 300px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 70px;
+}

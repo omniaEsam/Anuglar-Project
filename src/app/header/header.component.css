@@ -1,0 +1,27 @@
+.heeder{
+  display: flex;
+}
+.img{
+  margin-left: 50px;
+}
+.heeder  ul
+{
+    height:1px;
+    display:flex;
+    background-color:white;
+}
+.heeder ul li{
+  padding: 10px;
+  list-style-type: none;
+}
+a{
+  color:rgb(55, 195, 238) ;
+  text-decoration: none;
+  font-weight: bolder;
+}
+.navbar ul li a:hover{
+  color:gainsboro;
+  border: solid 1px rgb(6, 214, 214) ;
+  border-radius: 5px;
+  padding: 10px;
+}

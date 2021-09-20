@@ -1,0 +1,46 @@
+.div1{
+    background-image: url("https://www.konarabia.com/assets/img/vision.png");
+    background-size: cover;
+    height:450px;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 220px;
+}
+.parabout{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+   padding-bottom:30px ;
+}
+.div2{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    background-color:rgb(245, 243, 243);
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    padding-bottom: 50px;
+    color: rgb(70, 68, 68);
+    font-size: 30px;
+}
+.img{
+background-color:white;
+padding: 60px;
+margin-left: 20px;
+}
+.address{
+margin-top: 30px;
+}
+.address button{
+    background-color: rgb(55, 195, 238);
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    color: whitesmoke;
+}

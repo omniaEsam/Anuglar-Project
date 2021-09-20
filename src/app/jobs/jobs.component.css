@@ -1,0 +1,87 @@
+.container{
+    background-image: url('https://www.konarabia.com/Therapy.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    height:700px;
+    background-color: rgb(245, 243, 243);
+}
+.div1{
+    text-align: center;
+    padding-top: 280px;
+    padding-left: 40px;
+    color: whitesmoke;
+}
+.div2{
+    text-align: center;
+    padding-top: 280px;
+    padding-left: 40px; 
+    color: whitesmoke;
+}
+.address{
+    font-size: 80px;
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+.btn{
+    border: none;
+    background-color:white ;
+    padding: 10px;
+}
+.btn a{
+    text-decoration: none;
+    color: rgb(6, 214, 214);
+    font-size: 15px;
+}
+.btn:hover{
+    background-color:rgb(6, 214, 214) ;
+    
+}
+.btn a:hover{
+    color: whitesmoke;
+}
+.parent{
+   display: flex;
+   padding-bottom: 200px;
+}
+.div3{
+    padding-left: 40px; 
+}
+.div4{
+    padding-left: 40px;  
+}
+.sameAddress1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(92, 91, 91);
+    padding-top: 50px;
+   margin-left: 150px;
+   margin-bottom: 0;
+}
+.sameAddress2{
+    text-align: center;
+    margin-left: 90px;
+    font-size: 30px;
+    color: rgb(92, 91, 91);
+    padding-top: 50px;
+    margin-bottom: 0;
+}
+.p2{
+    color: gray;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+.btns{
+    text-align: center;
+    background-color: rgb(55, 195, 238);
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    color: whitesmoke;
+    width: 400px;
+    margin-bottom: 8px;
+    font-size: 15px;
+    margin-left: 150px;
+}
